@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>RECIPE BOOK</title>
+      <style>
+         body{
+         background-color:#D2691E
+         }
+         #foody{
+         line-height:2em;
+         text-align:center;
+         text-decoration:underline;
+         background-color:#FFC46B;
+         }
+         #meal{
+         font-family:fantasy;
+         }
+         .hungry{
+         font-family:didot;
+         font-size: 120%;
+         background-color:#A7E541
+         }
+         .meal{
+         font-family:courier;
+         font-size: 160%;
+         color:#17F1D7
+         }
+         .color{
+         background-color:#FFE55E
+         }
+         img {
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+         border-radius: 8px;
+         border: 1px solid #6a5acd;
+         background-color:black;
+         border-radius: 4px;
+         padding: 5px;
+         }
+         table, th, td {
+         padding: 15px;
+         border: 4px ridge black;
+         border-collapse: collapse;
+         background-color:#C0C0C0;
+         text-align: left;
+         }
+         .spice{
+         text-align: center;
+         background-color:#17F1D7
+         }
+         .onga{
+         text-align: center;
+         background-color:#FF6E4E
+         }
+         .maggie{
+         text-align: center;
+         background-color:#B7D4FF
+         }
+      </style>
+   </head>
+   <body>
+      <h1 id="foody">Goni's Recipe Book</h1>
+      <h2 id="meal">Table Of Contents</h2>
+      <p>
+      <ul>
+         <li><a href="#Puff-Puff" class="hungry">Puff-Puff</a></li>
+         <li><a href="#Fried Plantain" class="hungry">Fried Plantain</a><br></li>
+         <li><a href="#Boiled Yam" class="hungry">Boiled Yam</a><br></li>
+         <li><a href="#Indomie Noodles" class="hungry">Indomie Noodles</a><br></li>
+      </ul>
+      <p>
+      <ul>
+         <li id="Puff-Puff" class="meal">Puff-Puff</li>
+         <p><img src="https://i2.wp.com/www.myactivekitchen.com/wp-content/uploads/2015/04/puff-puff-image-1.jpg?resize=360%2C240&ssl=1" alt="Puff-Puff" width="209">
+         <p class="color">Puff puff is a deep-fried dough. They are made from yeast dough, shaped into balls and deep-fried until golden brown. It has a doughnut-like texture but slightly more chewy. It is a very common snack eaten by so many countries but with different names and a little bit of variation in the mode of preparation.</p>
+         <br>
+      </ul>
+      <table>
+         <thead>
+            <tr>
+               <th class="onga">Meal</th>
+               <th class="spice">Ingredients</th>
+               <th class="maggie">Steps</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>Puff-Puff</td>
+               <td>600g all-purpose flour,<br>10g fast action yeast,<br>150g sugar (use as desired),<br>½ tsp salt,<br>550-650g Lukewarm Water,<br>1-3tbsp chilli flakes (substitute with cayenne pepper),<br>Vegetable oil for frying</td>
+               <td>In a shallow bowl, add flour and salt together,<br>Add other dry ingredients and combine well,<br>Add lukewarm water to the dry mixture in bits to form a batter.<br> You can add 500g at first then check if it needs more water.<br>Cover the bowl with a cling film or a damp towel and place in a warm place to proof.<br>Once the mixture has risen and doubled in size, you then move on to frying.<br></td>
+            </tr>
+         </tbody>
+      </table>
+      <br>
+      <li id="Fried Plantain" class="meal">Fried-Plantain</li>
+      <p><img src="https://i1.wp.com/www.myactivekitchen.com/wp-content/uploads/2019/08/how-to-fry-plantain-recipe-img-17.jpg?w=585&ssl=1" alt="Fried Plantain" width="200">
+      <p class="color">Plantain is very similar to a banana but unlike bananas that can be eaten raw, plantain is cooked before you can eat it.Plantain is also referred to as <em>cooking banana.</em><br></p>
+      <table>
+         <thead>
+            <tr>
+               <th class="onga">Meal</th>
+               <th class="spice">Ingredients</th>
+               <th class="maggie">Steps </th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>Fried Plantain</td>
+               <td>Ripe but firm plantain,<br>Vegetable oil,<br>Salt to taste<br></td>
+               <td>Place a frying pan on medium heat,<br>add vegetable oil and move on to preparing the plantain while the oil gets hot.<br>Using a sharp knife, cut both ends of the plantain, make an incision on the skin from top to bottom and peel the plantain.<br>Carefully add the sliced plantain to the hot oil and fry on both sides until golden brown.<br>Remove plantain from the hot oil and drain on a kitchen towel.<br> Sprinkle salt on hot plantain and toss to combine.<br> Plantain can be served hot, warm or cold.<br></td>
+            </tr>
+         </tbody>
+      </table>
+      <br>
+      <li id="Boiled Yam" class="meal">Boiled Yam</li>
+      <p><img src="https://i1.wp.com/www.myactivekitchen.com/wp-content/uploads/2019/05/boiled-yam-recipe-image_14.jpg?w=600&ssl=1" alt="Boiled Yam" width="200">
+      <p class="color">Yam (Puna) is very popular in Nigeria and other parts of Africa.<br>You can have boiled yam on your table in under 30 minutes. Yam is a blank canvas, it requires few ingredients to make it and it is very easy to cook too.<br></p>
+      <table>
+         <thead>
+            <tr>
+               <th class="onga">Meal</th>
+               <th class="spice">Ingredients</th>
+               <th class="maggie">Steps </th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>Boiled Yam</td>
+               <td>A tuber of puna Yam (white),<br>Salt,<br>Water</td>
+               <td>Rinse yam clean thoroughly and place in a large saucepan<br>,Add enough water to cover the yam and add salt,<br>Place on medium heat and cook till yam is soft. Yam is cooked if a fork goes through it easily.<br>Drain the yam (do this to avoid soggy yam) and serve immediately.<br></td>
+            </tr>
+         </tbody>
+      </table>
+      <br>
+      <li id="Noodles" class="meal">Indomie Noodles</li>
+      <p><img src="https://i2.wp.com/www.myactivekitchen.com/wp-content/uploads/2014/10/9-1.jpg?resize=1024%2C682&ssl=1" alt="Indomie Noodles" width="250">
+      <p class="color">Indomie recipes are just too many in Nigeria, kids love them as well as adults.<br>They have been able to capture the hearts of most Nigerians with a series of good products and of course their often captivating commercials.<br></p>
+      <table>
+         <thead>
+            <tr>
+               <th class="onga">Meal</th>
+               <th class="spice">Ingredients</th>
+               <th class="maggie">Steps </th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>Indomie Noodles</td>
+               <td>sliced Onions,<br>Fresh pepper,<br>50ml vegetable oil<br></td>
+               <td>Pieces the indomie in a bowl and pour boiled water to it, allow for about five minutes for the noodles to get soft.<br>Drain water from the noodles after 4 minutes, add the follow-come spices while still in the bowl, at this point, the noodles will be both soft and hot.<br>The frying pan contains the fried tomatoes onions and peppers, cook and stir for about five minutes and you are done.<br></td>
+            </tr>
+         </tbody>
+      </table>
+      <p><a href="https://www.myactivekitchen.com" target="_parent">READ MORE HERE!</a>      
+   </body>
+</html>
