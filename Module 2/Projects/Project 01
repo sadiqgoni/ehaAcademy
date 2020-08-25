@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>Destination Nigeria</title>
+   </head>
+   <style>
+      body{
+      background-color:#CBE724;
+      }
+      h1{
+      border:6px ridge #DF8600;
+      padding:2px;
+      background-color:#FFC46B;
+      font-family:Arial;
+      text-align:center;
+      }
+      h2{
+      color:purple;
+      font-family:cursive;
+      }
+      .naija{
+      font-family:fantasy;
+      line-height:1.8em;
+      background-color:#FD0079
+      }
+      .food{
+      border-radius: 50%;
+      }
+   </style>
+   <body>
+      <h1>DESTINATION NIGERIA</h1>
+      <h2>Welcome To Nigeria</h2>
+      <p class="naija"> Discover a fascinating country; take a trip to one of <strong>the most beautiful places on earth.</strong> Nigeria is filled with vast unspoiled nature, it is a land filled with beautiful contrasts. From the <em>Sahel</em> region of the North to the wetland of southern Nigeria there is something for everyone.</p>
+      <p class="naija">Nigeria is a country of over 371 tribes and a population of over 186 million people. If you’re looking for the beat of an afro music festival, the adrenaline of an outdoor adventure, lovely beaches, vibrant night life, tasty delicacies or the experience of a breath-taking road trip,then Nigeria is for you.</p>
+      <h2>Evermoment Things You Will See In Nigeria</h2>
+      <h3>SIGHTSEEING</h3>
+      <img src="https://www.yankarigamereserve.com.ng/templates/it_paradise/custom/images/IMG_20190705_095542.jpg" alt="Yankari Game Reserve" width="300" height="300">
+      <ul>
+         <li><strong>Yankari National Park</strong> is a large wildlife park located in the south-central part of Bauchi State, in northeastern Nigeria. It covers an area of about 2,244 square kilometres (866 sq mi) and is home to several natural warm water springs, as well as a wide variety of flora and fauna. Its location in the heartland of the West African savanna makes it a unique way for tourists and holidaymakers to watch wildlife in its natural habitat.</li>
+         <img src="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6c/51/d3.jpg" alt="Olumo Rock" width="300" height="300">
+         <li><strong>Olumo Rock</strong> is a mountain in south-western Nigeria. It is located in the ancient city of Abeokuta, Ogun State, and was normally used during inter-tribal warfare in the 19th century.</li>
+         <img src="https://hotels.ng/guides/wp-content/uploads/2017/06/Kano-city-walls-hotels.ng_.jpg" alt="Kano Wall" width="300" height="300">
+         <li><strong>The Ancient Kano City Walls</strong> were ancient defensive walls built to protect the inhabitants of the ancient city of Kano. The wall was initially built from 1095 through 1134 and completed in the middle of the 14th century. The Ancient Kano City Walls were described as <em>"the most impressive monument in West Africa".</em>
+      </ul>
+      <h3>TASTY FOOD IN NIGERIA</h3>
+      <img class="food" src="https://img.buzzfeed.com/buzzfeed-static/static/2019-01/14/17/asset/buzzfeed-prod-web-06/sub-buzz-25688-1547505890-13.jpg?output-quality=auto&output-format=auto" alt="Nigerian Jollof Rice" width="300"> 
+      <ul>
+         <li><strong>Nigerian Jollof Rice</strong> made with tomatoes, onions, scotch bonnets, and chili peppers. There are endless variations on this recipe, but those five ingredients are usual constants.No list of Nigerian foods can be complete without a mention of Jollof rice. It's a party dish brought out at celebrations and a signature regional dish.</li>
+         <img class="food" src="https://img.buzzfeed.com/buzzfeed-static/static/2019-01/11/12/asset/buzzfeed-prod-web-04/sub-buzz-19430-1547227450-2.jpg?output-quality=auto&output-format=auto" alt="Pounded Yam" width="200">
+         <li><strong>Pounded yams</strong> are considered a fufu (a kind of starchy side dish) usually served with a stew or efo.One could compare pounded yams to mashed potatoes, but that'd be doing a disservice to the magically pull apart dough-like texture attained by this dish,And you don't need a mortar and pestle to cook pounded yams you can make them with a hand mixer, a blender, or yam flour.</li>
+         <img class="food" src="https://img.buzzfeed.com/buzzfeed-static/static/2019-01/14/15/asset/buzzfeed-prod-web-01/sub-buzz-6945-1547499531-1.jpg?output-quality=auto&output-format=auto" alt="Ofada Stew" width="200">
+         <li><strong>Ofada Stew</strong> is a stew made with spicy scotch bonnets, smoked dried shrimp, and iru (also known as locust beans or dawa dawa).This is one of those dishes whose very image inspires appetites from the pickiest of eaters. Be careful though: the dish is pretty spicy and tastes great when paired with tongue-cooling rice.
+      </ul>
+   </body>
+</html>
